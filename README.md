@@ -1,43 +1,27 @@
-# Create React Express App
+# The Lone Taco
 
-## About This Boilerplate
+A discovery app for filling your cravings with the best meals out there.
 
-This setup allows for a Node/Express/React app which can be easily deployed to Heroku.
+## Table of Contents
 
-The front-end React app will auto-reload as it's updated via webpack dev server, and the backend Express app will auto-reload independently with nodemon.
+- [Usage](#usage)
+- [About](#about)
+- [Support](#support)
+- [Contributing](#contributing)
 
-## Starting the app locally
+## Usage
 
-Start by installing front and backend dependencies. While in this directory, run the following commands:
+Search for and submit reviews for the best meals out there.
 
-```
-yarn install
-cd client
-yarn install
-cd ..
-``
 
-After both installations complete, run the following command in your terminal:
+## About
 
-```
-yarn start
-```
+- MERN Stack
 
-That's it, your app should be running on <http://localhost:3000>. The Express server should intercept any AJAX requests from the client.
+## Support
 
-## Deployment (Heroku)
+Please [open an issue](https://github.com/dmaddox/TheLoneTaco/issues/new) for support.
 
-After confirming that you have an up to date git repository and a Heroku app created, complete the following:
+## Contributing
 
-1. Build the React app for production by running the following command:
-
-```
-yarn build
-```
-> Note: A yarn build will be required to register any new Post requests from any front-end JavaScript to to prevent any proxy server errors.
-
-2. Add and commit all changes to git
-
-3. Push to Heroku
-
-If all previous steps were followed correctly, your application should be deployed to Heroku!
+Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/maddox/TheLoneTaco/compare/).
