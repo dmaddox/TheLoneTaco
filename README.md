@@ -24,4 +24,4 @@ Please [open an issue](https://github.com/dmaddox/TheLoneTaco/issues/new) for su
 
 ## Contributing
 
-Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/maddox/TheLoneTaco/compare/).
+Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/dmaddox/TheLoneTaco/compare/).
